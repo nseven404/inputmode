@@ -8,10 +8,4 @@
 | [c]   [a][________________________][a]   [c] [<][V][>] [ 0  ][.]|_||
 `--------------------------------------------------------------------'
 
-  site by https://christianoliff.com
-
-  hosted on https://pages.github.com
-
-  ssl/cdn by https://cloudflare.com
-
-  css framework https://getbootstrap.com
+  site by https://www.facebook.com/O.o.HVN.Official.o.O
